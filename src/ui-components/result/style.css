@@ -1,0 +1,17 @@
+.container{
+    border: 1px solid dodgerblue;
+    margin: 10px 0;
+}
+
+.not-loaded {
+    text-align: center;
+}
+
+.center-align {
+    text-align: center;
+}
+
+.repo-row {
+    display: flex;
+    flex-wrap: wrap;
+}
